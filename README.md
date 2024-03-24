@@ -1,6 +1,6 @@
 # LINE Bot を使った現金出納簿アプリ
 
-![Uploading 5ca26bb2bcfa7f8afafc70cf0aace378d487a83865ffd7c805fe83.82880308.jpg…]()
+![5ca26bb2bcfa7f8afafc70cf0aace378d487a83865ffd7c805fe83 82880308](https://github.com/taichan-33/dcb/assets/151983276/60c3d52b-6e06-45fd-8549-574383cd4e14)
 
 このコードは、LINE Bot と Google スプレッドシートを連携させて出納簿をつけるためのアプリケーションです。
 
